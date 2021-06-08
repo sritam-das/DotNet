@@ -1,0 +1,7 @@
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\bin\Debug\LinqDemo.exe.config
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\bin\Debug\LinqDemo.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\bin\Debug\LinqDemo.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\obj\Debug\LinqDemo.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\LinqDemo\obj\Debug\LinqDemo.pdb

@@ -1,0 +1,6 @@
+D:\Vrushali Bhise\DotNet5 Workloads\MyTestingApp\bin\Debug\MyTestingApp.dll
+D:\Vrushali Bhise\DotNet5 Workloads\MyTestingApp\bin\Debug\MyTestingApp.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\MyTestingApp\obj\Debug\MyTestingApp.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\MyTestingApp\obj\Debug\MyTestingApp.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\MyTestingApp\obj\Debug\MyTestingApp.dll
+D:\Vrushali Bhise\DotNet5 Workloads\MyTestingApp\obj\Debug\MyTestingApp.pdb

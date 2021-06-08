@@ -1,0 +1,10 @@
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\obj\Debug\Disconnected-Workshop.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\obj\Debug\Disconnected-Workshop.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\bin\Debug\Disconnected-Workshop.exe.config
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\bin\Debug\Disconnected-Workshop.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\bin\Debug\Disconnected-Workshop.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\bin\Debug\DAL.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\bin\Debug\DAL.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\obj\Debug\Disconnected-Workshop.csproj.CopyComplete
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\obj\Debug\Disconnected-Workshop.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\obj\Debug\Disconnected-Workshop.pdb

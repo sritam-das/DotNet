@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\bin\Debug\FileHandlingDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\FileHandlingDemo\FileHandlingDemo\obj\Debug\FileHandlingDemo.pdb

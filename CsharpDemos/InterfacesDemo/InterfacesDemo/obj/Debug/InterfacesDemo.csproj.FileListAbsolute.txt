@@ -1,0 +1,10 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\bin\Debug\CalculatorLibrary.dll
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\bin\Debug\CalculatorLibrary.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CopyComplete
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

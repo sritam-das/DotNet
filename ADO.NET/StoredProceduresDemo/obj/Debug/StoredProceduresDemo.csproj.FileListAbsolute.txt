@@ -1,0 +1,7 @@
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\bin\Debug\StoredProceduresDemo.exe.config
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\bin\Debug\StoredProceduresDemo.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\bin\Debug\StoredProceduresDemo.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\obj\Debug\StoredProceduresDemo.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\obj\Debug\StoredProceduresDemo.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\obj\Debug\StoredProceduresDemo.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\StoredProceduresDemo\obj\Debug\StoredProceduresDemo.pdb

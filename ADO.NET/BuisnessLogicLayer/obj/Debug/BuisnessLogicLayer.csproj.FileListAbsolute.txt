@@ -1,0 +1,9 @@
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\bin\Debug\BuisnessLogicLayer.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\bin\Debug\BuisnessLogicLayer.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CopyComplete
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.pdb

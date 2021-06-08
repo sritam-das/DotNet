@@ -1,0 +1,6 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\InterfacesDemo\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache

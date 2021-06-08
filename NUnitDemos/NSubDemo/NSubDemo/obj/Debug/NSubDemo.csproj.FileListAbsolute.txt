@@ -1,0 +1,6 @@
+D:\FrTp_CDAC_May2021\NUnitDemos\NSubDemo\NSubDemo\bin\Debug\NSubDemo.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\NSubDemo\NSubDemo\bin\Debug\NSubDemo.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\NSubDemo\NSubDemo\obj\Debug\NSubDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\NSubDemo\NSubDemo\obj\Debug\NSubDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\NSubDemo\NSubDemo\obj\Debug\NSubDemo.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\NSubDemo\NSubDemo\obj\Debug\NSubDemo.pdb

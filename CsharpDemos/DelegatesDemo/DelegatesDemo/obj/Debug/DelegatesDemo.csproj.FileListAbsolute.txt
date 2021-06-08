@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache

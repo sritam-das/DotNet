@@ -1,0 +1,16 @@
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\DemoApp.exe
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\DemoApp.deps.json
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\DemoApp.runtimeconfig.json
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\DemoApp.runtimeconfig.dev.json
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\DemoApp.dll
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\ref\DemoApp.dll
+F:\MyCourseContent\DotNet5Features\DemoApp\bin\Debug\net5.0\DemoApp.pdb
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.csprojAssemblyReference.cache
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.AssemblyInfoInputs.cache
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.AssemblyInfo.cs
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.csproj.CoreCompileInputs.cache
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.dll
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\ref\DemoApp.dll
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.pdb
+F:\MyCourseContent\DotNet5Features\DemoApp\obj\Debug\net5.0\DemoApp.genruntimeconfig.cache

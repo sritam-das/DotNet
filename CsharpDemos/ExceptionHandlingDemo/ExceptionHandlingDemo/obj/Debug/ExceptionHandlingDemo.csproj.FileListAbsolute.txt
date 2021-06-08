@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

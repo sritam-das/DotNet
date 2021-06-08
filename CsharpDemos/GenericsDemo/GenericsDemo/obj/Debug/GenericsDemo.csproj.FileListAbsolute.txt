@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.pdb

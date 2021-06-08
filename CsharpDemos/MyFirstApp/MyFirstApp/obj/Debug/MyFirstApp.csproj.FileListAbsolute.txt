@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb

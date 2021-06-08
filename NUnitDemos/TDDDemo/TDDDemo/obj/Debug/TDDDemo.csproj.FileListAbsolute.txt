@@ -1,0 +1,10 @@
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\bin\Debug\TDDDemo.exe.config
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\bin\Debug\TDDDemo.exe
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\bin\Debug\TDDDemo.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.exe
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\bin\Debug\FizzBuzzApp.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\bin\Debug\FizzBuzzApp.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\TDDDemo\obj\Debug\TDDDemo.csproj.CopyComplete

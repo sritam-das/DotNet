@@ -1,0 +1,16 @@
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\nunit.engine.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\nunit.engine.api.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\nunit.engine.core.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\MyFirstTestingApp.Tests.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\MyFirstTestingApp.Tests.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\MyFirstTestingApp.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\nunit.framework.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\MyFirstTestingApp.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\bin\Debug\nunit.framework.xml
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\obj\Debug\MyFirstTestingApp.Tests.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\obj\Debug\MyFirstTestingApp.Tests.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\obj\Debug\MyFirstTestingApp.Tests.csproj.CopyComplete
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\obj\Debug\MyFirstTestingApp.Tests.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp.Tests\obj\Debug\MyFirstTestingApp.Tests.pdb

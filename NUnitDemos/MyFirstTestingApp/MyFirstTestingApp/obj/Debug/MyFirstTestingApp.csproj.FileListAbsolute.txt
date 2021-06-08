@@ -1,0 +1,6 @@
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp\bin\Debug\MyFirstTestingApp.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp\bin\Debug\MyFirstTestingApp.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp\obj\Debug\MyFirstTestingApp.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp\obj\Debug\MyFirstTestingApp.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp\obj\Debug\MyFirstTestingApp.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\MyFirstTestingApp\MyFirstTestingApp\obj\Debug\MyFirstTestingApp.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\DAL\bin\Debug\DAL.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\DAL\bin\Debug\DAL.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\DAL\obj\Debug\DAL.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\Disconnected-Workshop\DAL\obj\Debug\DAL.pdb

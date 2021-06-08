@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

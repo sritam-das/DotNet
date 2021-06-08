@@ -1,0 +1,10 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\bin\Debug\ConceptsDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\bin\Debug\ConceptsDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\bin\Debug\ConceptsDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\obj\Debug\ConceptsDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\obj\Debug\ConceptsDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\obj\Debug\ConceptsDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\obj\Debug\ConceptsDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\bin\Debug\PersonLibrary.dll
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\bin\Debug\PersonLibrary.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\ConceptsDemo\ConceptsDemo\obj\Debug\ConceptsDemo.csproj.CopyComplete

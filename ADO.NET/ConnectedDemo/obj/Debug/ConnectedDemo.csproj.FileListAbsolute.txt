@@ -1,0 +1,12 @@
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\ConnectedDemo.exe.config
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\ConnectedDemo.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\ConnectedDemo.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\BuisnessLogicLayer.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\DataAccessLayer.dll
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\BuisnessLogicLayer.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\bin\Debug\DataAccessLayer.pdb
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.AssemblyReference.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.CoreCompileInputs.cache
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\obj\Debug\ConnectedDemo.csproj.CopyComplete
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\obj\Debug\ConnectedDemo.exe
+D:\Vrushali Bhise\DotNet5 Workloads\ADO.NET\ConnectedDemo\obj\Debug\ConnectedDemo.pdb

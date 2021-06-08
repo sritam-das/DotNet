@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\bin\Debug\EnumDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\bin\Debug\EnumDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\bin\Debug\EnumDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\obj\Debug\EnumDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\obj\Debug\EnumDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\GenericsDemo\EnumDemo\obj\Debug\EnumDemo.pdb

@@ -1,0 +1,7 @@
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe.config
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.pdb
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.exe
+D:\FrTp_CDAC_May2021\CsharpDemos\SerializationDemo\SerializationDemo\obj\Debug\SerializationDemo.pdb

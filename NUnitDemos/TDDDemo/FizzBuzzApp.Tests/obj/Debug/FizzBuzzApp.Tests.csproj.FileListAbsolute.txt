@@ -1,0 +1,16 @@
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\nunit.engine.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\nunit.engine.api.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\nunit.engine.core.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\FizzBuzzApp.Tests.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\FizzBuzzApp.Tests.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\FizzBuzzApp.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\nunit.framework.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\FizzBuzzApp.pdb
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\bin\Debug\nunit.framework.xml
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\obj\Debug\FizzBuzzApp.Tests.csprojAssemblyReference.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\obj\Debug\FizzBuzzApp.Tests.csproj.CoreCompileInputs.cache
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\obj\Debug\FizzBuzzApp.Tests.csproj.CopyComplete
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\obj\Debug\FizzBuzzApp.Tests.dll
+D:\FrTp_CDAC_May2021\NUnitDemos\TDDDemo\FizzBuzzApp.Tests\obj\Debug\FizzBuzzApp.Tests.pdb
